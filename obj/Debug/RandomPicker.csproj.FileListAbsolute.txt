@@ -1,0 +1,10 @@
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\bin\Debug\RandomPicker.exe.config
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\bin\Debug\RandomPicker.exe
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\bin\Debug\RandomPicker.pdb
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\obj\Debug\RandomPicker.csprojAssemblyReference.cache
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\obj\Debug\RandomPicker.Form1.resources
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\obj\Debug\RandomPicker.Properties.Resources.resources
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\obj\Debug\RandomPicker.csproj.GenerateResource.cache
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\obj\Debug\RandomPicker.csproj.CoreCompileInputs.cache
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\obj\Debug\RandomPicker.exe
+C:\Users\hynek\source\repos\RandomPicker\RandomPicker\obj\Debug\RandomPicker.pdb
